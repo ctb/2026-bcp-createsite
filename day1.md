@@ -1,6 +1,5 @@
 ---
 title: Day 1 - welcome and introduction!
-layout: home
 nav_order: 2
 ---
 
